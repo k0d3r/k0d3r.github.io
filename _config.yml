@@ -7,5 +7,14 @@ permalink:        pretty
 
 paginate:         5
 
+# Setup
+title:            K0D3R
+tagline:          'Tagline'
+description:      'Description'
+url:              http://k0d3r.github.io/
+
 # Custom vars
 version:          2.0.0
+
+github:
+  repo:           https://github.com/k0d3r/k0d3r.github.io
